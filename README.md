@@ -19,7 +19,6 @@ This is a simple Python BMI (Body Mass Index) Calculator that calculates BMI bas
 - Python
 - Tkinter (GUI)
 
-
 ### 📷 Output
 ()
 
