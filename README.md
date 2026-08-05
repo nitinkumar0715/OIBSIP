@@ -22,7 +22,7 @@ This is a simple BMI (Body Mass Index) Calculator made using Python. It calculat
 python bmi_calculator.py
 ```
 ## output
-(image_alt)(https://github.com/nitinkumar0715/OIBSIP/blob/4dc104142768ae1ba56f509cf7a301c37cfad05b/Output.png)
+![BMI Calculator Output](Output.png)
 
 ## Author
 Nitin Kumar
