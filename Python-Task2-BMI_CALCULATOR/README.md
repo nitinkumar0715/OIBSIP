@@ -26,6 +26,8 @@ How to Run
 
 Output
 
-<img src="output.png" alt="BMI Calculator Output" width="500">Author
+<img src="output.png" alt="BMI Calculator Output" width="500">
+
+Author
 
 Nitin Kumar
